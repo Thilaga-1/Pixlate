@@ -4,9 +4,6 @@
 Transform any photograph into a masterpiece using deep learning!  
 This project implements a **Neural Style Transfer Web App** built with **Streamlit**, **TensorFlow Hub**, and **Google Colab**.
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder" alt="Style Transfer Demo" width="600"/>
-</p>
 
 ---
 
@@ -67,8 +64,12 @@ neural-style-transfer-app/
 ---
 
 ## 📸 Demo
+INPUT CONTENT AND STYLE IMAGES
+![content](https://github.com/user-attachments/assets/5fca6fdc-6461-4a16-8b4a-5095d73836ac)
+![style1](https://github.com/user-attachments/assets/10db9b6c-4f1a-470d-bb05-3604f8d9cac9)
 
 > ![image](https://github.com/user-attachments/assets/b2859a14-2bee-4562-ac75-b392c583f0df)
+OUTPUT 
 ![stylized_output](https://github.com/user-attachments/assets/c4e445d7-1086-4b64-a512-8a334971893b)
 
 
