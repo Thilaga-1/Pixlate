@@ -68,8 +68,10 @@ neural-style-transfer-app/
 
 ## 📸 Demo
 
-> Coming soon: Add before & after images or link to video demo  
-*(You can also upload to Imgur or GitHub issues and embed)*
+> ![image](https://github.com/user-attachments/assets/b2859a14-2bee-4562-ac75-b392c583f0df)
+![stylized_output](https://github.com/user-attachments/assets/c4e445d7-1086-4b64-a512-8a334971893b)
+
+
 
 ---
 
