@@ -65,16 +65,16 @@ neural-style-transfer-app/
 
 ## 📸 Demo
 
-INPUT CONTENT IMAGE
+## INPUT CONTENT IMAGE
 ![content](https://github.com/user-attachments/assets/5fca6fdc-6461-4a16-8b4a-5095d73836ac)
 
-INPUT STYLE IMAGE
+## INPUT STYLE IMAGE
 ![style1](https://github.com/user-attachments/assets/10db9b6c-4f1a-470d-bb05-3604f8d9cac9)
 
-STREAMLIT INTERFACE
+## STREAMLIT INTERFACE
 > ![image](https://github.com/user-attachments/assets/b2859a14-2bee-4562-ac75-b392c583f0df)
 
-OUTPUT (STYLIZED IMAGE)
+## OUTPUT (STYLIZED IMAGE)
 ![stylized_output](https://github.com/user-attachments/assets/c4e445d7-1086-4b64-a512-8a334971893b)
 
 
